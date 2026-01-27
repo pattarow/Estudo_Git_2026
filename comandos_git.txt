@@ -14,14 +14,3 @@ git log -> mostra todos os históricos de commit
 7. git commit -m "nome do save"
 8. git status
 9 retorna ao passo 3.
-
-teste
-
-
-
-
-
-
-
-
-#EU AMO A DUDA
