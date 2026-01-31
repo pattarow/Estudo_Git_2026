@@ -8,6 +8,11 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Alem disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
+Confira tudo no YouTube do Teo! É gratis! Segue o Link:
+
+[Curso Git 2026] https://youtube.com/@teomewhy
+
+
 ## Fluxo de Trabalho Git Local
 01. git checkout -b <nova-branch>
 02. cria ou atualiza arquivos
