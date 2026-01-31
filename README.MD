@@ -12,6 +12,11 @@ Confira tudo no YouTube do Teo! É gratis! Segue o Link:
 
 [Curso Git 2026](https://youtube.com/@teomewhy)
 
+Além do YouTube do Teo, se liga no site e agenda para ficar por dentro de tudo que vai rolar em 2026!
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
+
 
 ## Fluxo de Trabalho Git Local
 01. git checkout -b <nova-branch>
